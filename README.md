@@ -66,12 +66,3 @@ nohup python main.py &
 
 The script continuously checks the specified RCB tickets booking page for the availability of tickets for the specified date. If tickets become available, it sends the configured number of SMS notifications to the specified phone number, with an interval between each message.
 
-## About the author
-
-**Dhruv Awasthi** is a dedicated Data Scientist renowned for his innovative approaches in automating tasks and leveraging technology to boost efficiency and productivity. With a robust background in data science, Dhruv excels in developing intelligent solutions that simplify complex challenges. His passion for technology and its practical applications in the real world drives him to continuously explore new avenues for improvement.
-
-Connect with Dhruv:
-- **Email**: [dhruvawasthicc@gmail.com](mailto:dhruvawasthicc@gmail.com)
-- **Website**: https://www.dhruvawasthi.com/
-- **LinkedIn**: https://www.linkedin.com/in/dhruv-awasthi/
-
